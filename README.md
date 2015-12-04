@@ -13,7 +13,7 @@ tracing information.
 ------------------------------
 
 
-#######The tests performed:
+######The tests performed:
 
 * A test that loops through each feed in the allFeeds object and ensures it has a URL defined
 and that the URL is not empty.
@@ -35,7 +35,7 @@ actually changes.
 -----------------------------------
 
 
-#######Screenshot
+######Screenshot
 
 
 ![Screenshot](https://github.com/Pooja0131/FEND-FeedReaderTesting-Project6/blob/master/images/screenshot1.png)
